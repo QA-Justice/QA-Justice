@@ -37,7 +37,8 @@ I like making things,, but only when I know what I want.
 
 | Repo | Description |
 |---|---|
-| **tiatya** | A personal AI agent you talk to on Discord, keeping records in an Obsidian vault |
+| [**tiatya**](https://github.com/QA-Justice/tiatya-bridge-docs) | A personal AI agent you talk to on Discord, keeping records in an Obsidian vault |
+
 
 <details>
 <summary>한국어</summary>
@@ -83,6 +84,6 @@ I like making things,, but only when I know what I want.
 
 | Repo | 설명 |
 |---|---|
-| **tiatya** | Discord로 대화하며 Obsidian vault에 기록을 남기는 개인 AI 에이전트 |
+| [**tiatya**](https://github.com/QA-Justice/tiatya-bridge-docs) | Discord로 대화하며 Obsidian vault에 기록을 남기는 개인 AI 에이전트 |
 
 </details>
